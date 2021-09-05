@@ -1,2 +1,2 @@
 # sobf
-NLP project analyzing W.E.B. Du Bois' The Souls of Black Folks
+Snetiment Analysis Project Analyzing W.E.B. Du Bois' The Souls of Black Folks
